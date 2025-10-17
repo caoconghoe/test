@@ -1,5 +1,6 @@
 # desktop_app.py
 """
+dịt cụ
 Face Attendance / Timekeeping - Desktop App (Tkinter)
 -----------------------------------------------------
 This converts the Streamlit web app logic into a native desktop GUI.
